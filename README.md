@@ -47,3 +47,5 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 ## Contato
 
 Para mais informações sobre o projeto, entre em contato com a equipe de desenvolvimento.
+
+https://instagram.com/notcostaip
