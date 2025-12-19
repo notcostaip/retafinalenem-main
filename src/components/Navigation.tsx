@@ -85,7 +85,7 @@ const Navigation = () => {
             </Button>
           </div>
 
-          {/* Navegação Móvel */}
+          {/* Navegação Mobile */}
           <div className="md:hidden">
             <Sheet open={isMobileMenuOpen} onOpenChange={setIsMobileMenuOpen}>
               <SheetTrigger asChild>
