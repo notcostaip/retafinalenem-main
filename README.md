@@ -1,51 +1,104 @@
-# Reta Final ENEM
+<div align="center">
 
-Projeto desenvolvido para a plataforma de venda de materiais para o Reta Final ENEM.
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=230&section=header&text=Reta%20Final%20ENEM&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Plataforma%20de%20Vendas&descAlignY=55&descSize=18&descColor=fca5a5" />
 
-## Tecnologias Utilizadas
+<br/>
 
-Este projeto foi construído com as seguintes tecnologias principais:
+<!-- BADGES -->
+<div>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+<br/>
+
+Projeto desenvolvido para a plataforma de venda de materiais para o **Reta Final ENEM**. Construído com foco em performance e alta conversão usando as melhores tecnologias web.
+
+</div>
+
+<br/>
+
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- TECH STACK -->
+<div align="center">
+
+### &nbsp; 🛠️ Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vite,react,ts,tailwind&theme=dark" alt="Tech" />
+
+<br/><br/>
+
+</div>
 
 - **[Vite](https://vitejs.dev/)**: Ferramenta de build rápida e moderna.
-- **[React](https://reactjs.org/)**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **[TypeScript](https://www.typescriptlang.org/)**: Superset tipado de JavaScript.
-- **[Tailwind CSS](https://tailwindcss.com/)**: Framework CSS utilitário para estilização rápida.
+- **[React](https://reactjs.org/)**: Biblioteca JavaScript para interfaces reativas.
+- **[TypeScript](https://www.typescriptlang.org/)**: Superset tipado de JavaScript para escalabilidade.
+- **[Tailwind CSS](https://tailwindcss.com/)**: Estilização modular e em dark mode.
 - **[shadcn/ui](https://ui.shadcn.com/)**: Componentes de interface reutilizáveis e acessíveis.
 
-## Como Executar o Projeto Localmente
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
-Siga os passos abaixo para rodar o projeto em sua máquina:
+<!-- HOW TO RUN -->
+<div align="center">
 
-1.  **Clone o repositório** (se ainda não tiver feito):
-    ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    ```
+### &nbsp; 🚀 Como Executar Localmente
 
-2.  **Instale as dependências**:
-    Navegue até a pasta do projeto e execute:
-    ```bash
-    npm install
-    ```
+</div>
 
-3.  **Inicie o servidor de desenvolvimento**:
-    ```bash
-    npm run dev
-    ```
-    O servidor iniciará geralmente em `http://localhost:8080/`.
+### 1. Clone o repositório
+```bash
+git clone https://github.com/notcostaip/retafinalenem-main.git
+cd retafinalenem-main
+```
 
-4.  **Build para Produção**:
-    Para gerar a versão otimizada para produção:
-    ```bash
-    npm run build
-    ```
+### 2. Instale as dependências
+```bash
+npm install
+```
 
-## Estrutura do Projeto
+### 3. Inicie o servidor
+```bash
+npm run dev
+```
 
-- `/src`: Contém todo o código fonte da aplicação (componentes, páginas, estilos).
-- `/public`: Arquivos estáticos públicos (imagens, ícones).
+### 4. Build para Produção
+```bash
+npm run build
+```
 
-## Contato
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
-Para mais informações sobre o projeto, entre em contato com a equipe de desenvolvimento.
+<!-- ESTRUTURA -->
+<div align="center">
 
-https://instagram.com/notcostaip
+### &nbsp; 📁 Estrutura do Projeto
+
+</div>
+
+```
+retafinalenem-main/
+├── src/           ← Código fonte (componentes, páginas, estilos)
+├── public/        ← Arquivos estáticos (imagens, ícones)
+└── package.json   ← Configuração de dependências
+```
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=130&section=footer" />
+
+<br/>
+
+**Feito por [Costa](https://github.com/notcostaip) com ☕ e muita diversão.**
+
+</div>
